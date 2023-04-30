@@ -5,12 +5,12 @@ import AnimatedText from "./components/AnimatedText";
 import Image from "next/image";
 import Link from "next/link";
 import { GitHubIcon } from "./components/Icons";
-import project1 from "/../app/public/images/projects/photography-portfolio-project-image.png";
-import project2 from "/../app/public/images/projects/Result-Summary-Component.png";
-import project3 from "/../app/public/images/projects/Product-Preview-Card-Component.png";
-import project4 from "/../app/public/images/projects/interactive-rating-comp-frontend-mentor.png";
-import project5 from "/../app/public/images/projects/Intro-with-signup-form.png";
-import project6 from "/../app/public/images/projects/QR-code-component.png";
+import project1 from "/public/images/projects/photography-portfolio-project-image.png";
+import project2 from "/public/images/projects/Result-Summary-Component.png";
+import project3 from "/public/images/projects/Product-Preview-Card-Component.png";
+import project4 from "/public/images/projects/interactive-rating-comp-frontend-mentor.png";
+import project5 from "/public/images/projects/Intro-with-signup-form.png";
+import project6 from "/public/images/projects/QR-code-component.png";
 import TransitionEffect from "./components/TransitionEffect";
 
 const FeaturedProject = ({
