@@ -63,28 +63,29 @@ const about = () => (
               Biography
             </h2>
             <p className="font-medium ">
-              Hello! I'm ReneC, a web developer with a passion for crafting
+              Hello! I&apos;m ReneC, a web developer with a passion for crafting
               beautiful, functional, and user-centered digital experiences. With
-              years of experience in the field, I'm always looking for new and
-              innovative ways to bring my clients' visions to life. I believe
-              that design is about more than just aesthetics - it's about
-              solving problems and creating intuitive, enjoyable experiences for
-              users.
+              years of experience in the field, I&apos;m always looking for new
+              and innovative ways to bring my clients&apos; visions to life. I
+              believe that design is about more than just aesthetics - it&apos;s
+              about solving problems and creating intuitive, enjoyable
+              experiences for users.
             </p>
             <p className="my-4 font-medium ">
-              Whether I'm working on a website, mobile app, or other digital
-              product, I bring my commitment to design excellence and
-              user-centered thinking to every project I work on. I'm dedicated
-              to creating digital experiences that not only look great but also
-              perform well in search engine rankings. That's why I make sure to
-              incorporate relevant keywords into my designs to help boost your
-              website's visibility and attract more potential customers.
+              Whether I&apos;m working on a website, mobile app, or other
+              digital product, I bring my commitment to design excellence and
+              user-centered thinking to every project I work on. I&apos;m
+              dedicated to creating digital experiences that not only look great
+              but also perform well in search engine rankings. That&apos;s why I
+              make sure to incorporate relevant keywords into my designs to help
+              boost your website&apos;s visibility and attract more potential
+              customers.
             </p>
             <p className="font-medium ">
               I look forward to the opportunity to bring my skills and passion
-              to your next project. If you're interested in working together,
-              please don't hesitate to contact me. Let's create something great
-              together!
+              to your next project. If you&apos;re interested in working
+              together, please don&apos;t hesitate to contact me. Let&apos;s
+              create something great together!
             </p>
           </div>
           <div
