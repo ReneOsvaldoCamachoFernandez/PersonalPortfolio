@@ -17,14 +17,14 @@ const Footer = () => {
         >
           Build By&nbsp;
           <Link
-            href="/"
+            href="https://www.linkedin.com/in/rene-camacho-fernandez-camacho/"
             className="underline underline-offset-2 hover:text-primary hover:dark:text-primaryDark"
           >
             Rene Camacho
           </Link>
         </div>
         <Link
-          href="/"
+          href={"mailto:saogeks@gmail.com"}
           target="_blank"
           className="underline underline-offset-2 hover:text-primary hover:dark:text-primaryDark"
         >
