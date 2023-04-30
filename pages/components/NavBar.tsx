@@ -40,7 +40,7 @@ const CustomMovileLink = ({
   href: string;
   title: string;
   className: string;
-  toggle: any;
+  toggle: Function;
 }) => {
   const router = useRouter();
   const handleClick = () => {
