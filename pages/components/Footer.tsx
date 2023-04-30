@@ -18,6 +18,7 @@ const Footer = () => {
           Build By&nbsp;
           <Link
             href="https://www.linkedin.com/in/rene-camacho-fernandez-camacho/"
+            target="_blank"
             className="underline underline-offset-2 hover:text-primary hover:dark:text-primaryDark"
           >
             Rene Camacho
