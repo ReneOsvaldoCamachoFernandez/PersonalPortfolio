@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react";
+import React from "react";
 import { motion } from "framer-motion";
 
 const quote = {
@@ -18,13 +18,7 @@ const singleWord = {
   animate: { opacity: 1, y: 0, transition: { duration: 1 } },
 };
 
-const AnimatedText = ({
-  text,
-  className,
-}: {
-  text: string;
-  className: string;
-}) => {
+const AnimatedText = ({ text = "", className = "" }) => {
   return (
     <div
       className="w-full mx-auto py-2 flex items-center justify-center text-center overflow-hidden 
