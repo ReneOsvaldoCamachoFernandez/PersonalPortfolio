@@ -35,7 +35,12 @@ const CustomMovileLink = ({
   href = "",
   title = "",
   className = "",
-  toggle = () => {},
+  toggle,
+}: {
+  href: string;
+  title: string;
+  className: string;
+  toggle: any;
 }) => {
   const router = useRouter();
   const handleClick = () => {
