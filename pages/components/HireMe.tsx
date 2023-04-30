@@ -6,8 +6,7 @@ const HireMe = () => {
   return (
     <div
       className="fixed left-[16px] bottom-4 flex items-center justify-center 
-    overflow-hidden md:right-8 md:left-auto md:top-0 md:bottom-auto 
-    md:absolute sm:right-0"
+    overflow-hidden md:right-8 md:left-auto md:top-0 md:bottom-auto md:absolute md:z-20 sm:right-0 "
     >
       <div
         className="w-48 h-auto flex items-center justify-center relative
