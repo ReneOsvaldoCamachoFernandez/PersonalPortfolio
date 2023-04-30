@@ -260,10 +260,10 @@ const projects = () => {
               <FeaturedProject
                 title="Interactive Rating Component"
                 summary="An Interactive Rating Component, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
-                link="/"
+                link="https://interactive-rating-comp-frontend-mentor.vercel.app/"
                 type="Featured Project"
                 img={project4}
-                github="/"
+                github="https://github.com/ReneOsvaldoCamachoFernandez/interactive-rating-comp-frontend-mentor"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
