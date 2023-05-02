@@ -11,6 +11,16 @@ import project3 from "/public/images/projects/Product-Preview-Card-Component.png
 import project4 from "/public/images/projects/interactive-rating-comp-frontend-mentor.png";
 import project5 from "/public/images/projects/Intro-with-signup-form.png";
 import project6 from "/public/images/projects/QR-code-component.png";
+import project7 from "/public/images/projects/nft-preview-card.png";
+import project8 from "/public/images/projects/order-summary-component.png";
+import project9 from "/public/images/projects/stats-preview-card.png";
+import project10 from "/public/images/projects/3-column-preview-card-component.png";
+import project11 from "/public/images/projects/profile-card-component.png";
+import project12 from "/public/images/projects/faq-accordion-card.png";
+import project13 from "/public/images/projects/social-proof-section.png";
+import project14 from "/public/images/projects/article-preview-component.png";
+import project15 from "/public/images/projects/huddle-landing-page.png";
+import project16 from "/public/images/projects/four-card-feature-section.png";
 import TransitionEffect from "./components/TransitionEffect";
 
 const FeaturedProject = ({
@@ -284,6 +294,106 @@ const projects = () => {
                 type="Project"
                 img={project6}
                 github="https://github.com/ReneOsvaldoCamachoFernandez/qr-code-component"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="NFT preview card"
+                summary="NFT preview card, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
+                link="https://nft-preview-card-kohl-five.vercel.app/"
+                type="Project"
+                img={project7}
+                github="https://github.com/ReneOsvaldoCamachoFernandez/nft-preview-card"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="Order summary component"
+                summary="Order summary component, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
+                link="https://order-summary-component-amber-psi.vercel.app/"
+                type="Project"
+                img={project8}
+                github="https://github.com/ReneOsvaldoCamachoFernandez/order-summary-component"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="Stats preview card"
+                summary="Order summary component, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
+                link="https://stats-preview-card-puce.vercel.app/"
+                type="Project"
+                img={project9}
+                github="https://github.com/ReneOsvaldoCamachoFernandez/stats-preview-card"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="3 column preview card"
+                summary="3 column preview card component, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
+                link="https://3-column-preview-card-component-eight-hazel.vercel.app/"
+                type="Project"
+                img={project10}
+                github="https://github.com/ReneOsvaldoCamachoFernandez/3-column-preview-card-component"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="profile-card-component"
+                summary="Profile Card, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
+                link="https://profile-card-component-sooty-rho.vercel.app/"
+                type="Project"
+                img={project11}
+                github="https://github.com/ReneOsvaldoCamachoFernandez/profile-card-component"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="FAQ acordion card"
+                summary="FAQ acordion card, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
+                link="https://faq-accordion-card-gold-five.vercel.app/"
+                type="Project"
+                img={project12}
+                github="https://github.com/ReneOsvaldoCamachoFernandez/faq-accordion-card"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="Social proof section"
+                summary="Social proof section, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
+                link="https://social-proof-section-rose-one.vercel.app/"
+                type="Project"
+                img={project13}
+                github="https://github.com/ReneOsvaldoCamachoFernandez/social-proof-section"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="Article preview component"
+                summary="Article preview component, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
+                link="https://article-preview-component-ccjo.vercel.app/"
+                type="Project"
+                img={project14}
+                github="https://github.com/ReneOsvaldoCamachoFernandez/article-preview-component"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="Huddle landing page"
+                summary="Huddle landing page, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
+                link="https://huddle-landing-page-with-single-introductory-section-5spx2k8xb.vercel.app/"
+                type="Project"
+                img={project15}
+                github="https://github.com/ReneOsvaldoCamachoFernandez/huddle-landing-page-with-single-introductory-section-master"
+              />
+            </div>
+            <div className="col-span-6 sm:col-span-12">
+              <Project
+                title="Four card feature"
+                summary="Four card feature, responsive for movil, tablet and desktop using React, Next.js, Tailwind CSS and TypeScript."
+                link="https://four-card-feature-section-two-wheat.vercel.app/"
+                type="Project"
+                img={project16}
+                github="https://github.com/ReneOsvaldoCamachoFernandez/four-card-feature-section"
               />
             </div>
           </div>
